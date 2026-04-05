@@ -8,7 +8,7 @@
  * everywhere we describe the offer — marketing and in-app upgrade flows must match."
  *
  */
-export const CLIENT_APPROVED_PAID_PLAN_TRIAL_DAYS = 30
+export const CLIENT_APPROVED_PAID_PLAN_TRIAL_DAYS = 12
 
 
 /**
